@@ -1,0 +1,205 @@
+.nf-parent .nf-textbox {
+    border-radius: 3px;
+    height: 31px !important;
+    width: 477px;
+    padding-left: 14px;
+}
+
+#left_div {
+	width: 50%;
+	float: left;
+	padding: 0%;
+}
+.help-content{
+	width: 50%;
+	float: left;
+	padding: 0%;
+}
+#right_div {
+	width: 50%;
+	float:right;
+	margin-top:52px;
+}
+.img-gif-wrap{
+	float:right;
+	background:#fff;
+	border-radius:10px;
+	overflow:hidden;
+	box-shadow:0 0 13px 0px #000;
+}
+.warning {
+	background-color: #f89406;
+	border-color: #e96506;
+	color: #ffffff;
+}
+.nf-subscribe-button {
+    background: rgb(113, 12, 7);
+    padding: 3px;
+        color: #fff!important;
+    border: 1px solid rgb(113, 12, 7);
+    border-radius: 6%;
+    margin-left: 5px;
+}
+.entry-footer{width:100%!important;}
+
+.nf-parent .form1 {
+	width: 30%;
+	float: left;
+}
+.nf-parent .nf-option {
+	font-style: italic;
+	color: #cbcbcb !important;
+	font-size: 12px;
+	margin-left:9px;
+	margin-top:9px;
+	font-family: 'Helvetica Neue';
+	color:#454545;
+}
+.nf-parent h2.notify-heading{
+	font-size:28px;
+	font-family: 'Helvetica Neue';
+	font-weight: bold;
+	color:#454545;
+	margin:30px 0 16px;
+	padding:0;
+	padding-left:26px;
+	font-style: normal;
+}
+.nf-parent div.tab button{
+	font-family: 'Helvetica Neue';
+	font-weight: 500;
+	font-style: normal;
+	font-size:18px;
+	color:#454545;
+	float: left;
+	padding: 11px 16px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	background:none;
+	transition: 0.3s;	
+}
+.nf-parent div.tab:before  , .nf-parent div.tab:after{
+	content:"";
+	position:absolute; 
+	bottom:0;
+	left:0;
+	background:#cecece;
+	width:100%;
+	height:1px;
+}
+.nf-parent div.tab:after {
+	background:#9c9c9c;
+	bottom:1px;
+}
+.nf-parent .form-groups{
+	margin-bottom:36px;
+}
+.nf-parent .form-heading{
+	font-family: 'Helvetica Neue';
+	font-weight: 500;
+	font-style: normal;
+	color:#454545;
+	font-size:16px;
+	margin-bottom:4px;
+	margin-left:9px;
+}
+/* Change background color of buttons on hover */
+.nf-parent div.tab button:hover {
+	color: #7FCEEE;
+}
+/* Create an active/current tablink class */
+.nf-parent div.tab button.active {
+	color: #7FCEEE;
+}
+/* Style the tab */
+.nf-parent div.tab {
+	overflow: hidden;
+	position:relative;
+	padding-left:10px;
+}
+.nf-parent #setting_tab{
+	padding:40px 25px;
+}
+.nf-parent .button.add-new-h2{
+	background:#3ea9f4;
+	padding:5px 20px;
+	border:none;
+	height:auto;
+	color:#fff;
+}
+.nf-parent .cstm-btn{
+	width:397px;
+	height:39px;
+	background:#3ea9f4;
+	color:#fff;
+	text-decoration:none;
+	display:inline-block;
+	border-radius:5px;
+	line-height:39px;
+	font-family: 'Helvetica Neue';
+	font-weight:500;
+	padding-left:17px;
+	pointer-events:none;
+	text-shadow:2px 2px 2px rgba(0,0,0,0.6);
+}
+.nf-parent .help-content{
+	padding-left:30px;
+	padding-top:40px;
+	font-family: 'Helvetica Neue';
+	font-weight:500;	
+	width:483px;
+}
+
+.nf-parent .help-content textarea{
+	height:120px;
+}
+.nf-parent .mail-info p{
+	font-size:18px;
+	margin:0;
+}
+.mail-info{
+	margin-top:30px;
+	margin-bottom:30px;
+}
+.nf-parent .mail-info a{
+	text-decoration:none; 
+	color:#3ea9f4;
+}
+.nf-parent .line-breaker{
+	width:100%;
+	position:relative;
+	padding-bottom:7px;
+}
+.nf-parent .tel-img{
+	background:url('../images/tel-img.png') no-repeat;
+	height:17px;
+	width:17px;
+}
+.nf-parent .line-breaker:before  , .nf-parent .line-breaker:after{
+	content:"";
+	position:absolute; 
+	bottom:0;
+	left:0;
+	background:#cecece;
+	width:100%;
+	height:1px;
+}
+.nf-parent .line-breaker:after {
+	background:#9c9c9c;
+	bottom:1px;
+}
+.tel_num{
+	padding-top:5px;
+}
+.tel_num p{
+	font-size:18px;
+	font-family: 'Helvetica Neue';
+	font-weight:500;
+	color:#454545;
+	margin:0;
+}
+.tel_num p a{
+	text-decoration:none;
+	color:#454545;
+} 

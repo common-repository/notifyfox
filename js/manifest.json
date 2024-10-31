@@ -1,0 +1,8 @@
+{
+	"name": "NotifyFox App",
+	"short_name": "Notifyfox",
+	"start_url": "/",
+	"display": "standalone",
+	"gcm_sender_id": "962664768415",
+	"gcm_user_visible_only": true // very important
+}
